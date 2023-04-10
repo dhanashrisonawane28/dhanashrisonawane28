@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/wMJjp8M4/Make-Mistakes-to-fail-Inovate.png)](https://rishavchanda.io)
+[![MasterHead](https://i.postimg.cc/Yq7BDmNw/Make-Mistakes-to-fail-Inovate-1.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhanashri</h1>
 
 <h3 align="center">A passionate WEB developer</h3>
