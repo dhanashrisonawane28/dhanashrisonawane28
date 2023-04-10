@@ -1,5 +1,6 @@
-[![MasterHead](https://speckyboy.com/wp-content/uploads/2014/06/designnews_3_03.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Dhanashri</h1>
+[![MasterHead](https://speckyboy.com/wp-content/uploads/2014/06/designnews_3_03.jpg)](https://rishavchanda.io)
 <h3 align="center">A passionate WEB developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashrisonawane28&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashrisonawane28" /> </p>
