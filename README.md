@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://speckyboy.com/wp-content/uploads/2014/06/designnews_3_03.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhanashri</h1>
 <h3 align="center">A passionate WEB developer</h3>
 
