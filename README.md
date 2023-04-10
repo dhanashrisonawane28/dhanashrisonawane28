@@ -1,4 +1,4 @@
-[![MasterHead](https://speckyboy.com/wp-content/uploads/2014/06/designnews_3_03.jpg)](https://rishavchanda.io)
+[![MasterHead]([https://speckyboy.com/wp-content/uploads/2014/06/designnews_3_03.jpg](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhanashri</h1>
 
 <h3 align="center">A passionate WEB developer</h3>
