@@ -10,7 +10,9 @@
 
 - 👯 I’m looking to collaborate on **on different open source projects**
 
-- 👨‍💻 All of my projects are available at [https://dhanashrisonawane.netlify.app/](https://dhanashrisonawane.netlify.app/)
+- 📝 I regularly write articles on **https://medium.com/@dhanashrisonawane28**
+
+- 👨‍💻 All of my projects are available at **[https://dhanashrisonawane.netlify.app/](https://dhanashrisonawane.netlify.app/)**
 
 - 📫 How to reach me **dhanashrisonawane28@gmail.com**
 
